@@ -2,13 +2,6 @@
 
 A web application with user authentication and item management.
 
-## Setup
-
-### Prerequisites
-- Node.js 18+
-- Python 3.8+
-- Docker
-
 ### Backend Setup
 ```bash
 cd backend
